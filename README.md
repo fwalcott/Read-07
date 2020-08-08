@@ -1,4 +1,4 @@
- #Read 07 Quiz  
+ # Read 07 Quiz  
 
 ## Domain Modeling 
 
@@ -110,7 +110,7 @@ f) String
 ~~~
 
 Answers: 
-1. a,c.d 
+1. a, c, d 
 2. b
 3. d
 4. b
